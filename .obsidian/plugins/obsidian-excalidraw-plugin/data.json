@@ -5,7 +5,7 @@
   "embedUseExcalidrawFolder": false,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
-  "compress": true,
+  "compress": false,
   "decompressForMDView": true,
   "onceOffCompressFlagReset": true,
   "onceOffGPTVersionReset": false,
