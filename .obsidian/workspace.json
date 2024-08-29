@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily_Note_Template.md",
+                "file": "Countdowssn.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Week1-Exercises 2024-08-26 11.27.50.excalidraw.md"
+                "file": "ANEXOS/Ejercicios - Plantilla 2024-08-28 17.09.21.excalidraw.md"
               }
             }
           },
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Week1-Exercises 2024-08-26 11.27.50.excalidraw.md",
+                "file": "Countdowssn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Week1-Exercises 2024-08-26 11.27.50.excalidraw.md",
+                "file": "Countdowssn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Week1-Exercises 2024-08-26 11.27.50.excalidraw.md"
+                "file": "Countdowssn.md"
               }
             }
           },
@@ -320,15 +320,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c39f840cd443a052",
+  "active": "6dfb0c23f7dca6a0",
   "lastOpenFiles": [
+    "Templates/Daily_Note_Template.md",
+    "Templates/texto-grande.md",
+    "ANEXOS/Ejercicios - Plantilla 2024-08-28 17.09.21.excalidraw.png",
+    "ANEXOS/Ejercicios - Plantilla 2024-08-28 17.09.21.excalidraw.md",
+    "ANEXOS/Pasted Image 20240827184639_930.png",
+    "ANEXOS/Pasted Image 20240827184044_407.png",
+    "ANEXOS/Pasted Image 20240827183105_029.png",
+    "Excalidraw/Week1-Exercises 2024-08-26 11.27.50.excalidraw.md",
     "ANEXOS/Countdown 2024-08-29 00.41.24.excalidraw.md",
     "Countdowssn.md",
     "ANEXOS/Countdowssn 2024-08-29 00.45.36.excalidraw.md",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
-    "Excalidraw/Week1-Exercises 2024-08-26 11.27.50.excalidraw.md",
     "10. Personal.md",
-    "Templates/texto-grande.md",
     "Templates/tabla de contenido.md",
     "Templates/Sabado.md",
     "Templates/Registro de Estudios.md",
@@ -336,7 +342,6 @@
     "Templates/Paper Template.md",
     "Templates/Book Template.md",
     "Templates/Capture Template.md",
-    "Templates/Daily_Note_Template.md",
     "Templates/Dashboard.md",
     "Templates/example_indice.md",
     "Templates/generateCards2.md",
@@ -344,22 +349,16 @@
     "Templates/Note Template.md",
     "Daily_Notes/2024-08-28.md",
     "Calendar/Timeline/Tasks Timeline.md",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-28 17.09.21.excalidraw.md",
     "ANEXOS/Ejercicios - Plantilla 2024-08-28 16.27.05.excalidraw.md",
     "ANEXOS/Ejercicios - Plantilla 2024-08-28 19.20.14.excalidraw.md",
     "ANEXOS/Ejercicios - Plantilla 2024-08-28 19.29.22.excalidraw.md",
     "ANEXOS/Pasted Image 20240828192043_837.png",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-27 20.31.01.excalidraw.md",
     "ANEXOS/Pasted Image 20240828150801_222.png",
     "ANEXOS/Pasted Image 20240828103006_969.png",
     "ANEXOS/Pasted Image 20240827204314_078.png",
     "ANEXOS/Pasted Image 20240827202225_851.png",
-    "ANEXOS/Pasted Image 20240827184639_930.png",
-    "ANEXOS/Pasted Image 20240827184044_407.png",
-    "ANEXOS/Pasted Image 20240827183105_029.png",
     "Templates/Latex_Codes/operaciones_matematicas.png",
     "Universidad/Ciclo 6/ADA/Apuntes",
-    "ANEXOS/image (2).png",
     "Universidad/Ciclo 6/ADA/Ejercicios/Continua1",
     "Templates/Latex_Codes/simbolos_matematicos.png.opdownload",
     "Templates/Latex_Codes",
