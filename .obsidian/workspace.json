@@ -59,16 +59,26 @@
             "id": "c39f840cd443a052",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Week1-Exercises 2024-08-26 11.27.50.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "6c689d76f9a5915f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Personal.md",
+                "file": "Countdown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -161,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Personal.md",
+                "file": "Countdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Personal.md",
+                "file": "Countdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Personal.md"
+                "file": "Countdown.md"
               }
             }
           },
@@ -302,10 +312,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c39f840cd443a052",
+  "active": "6c689d76f9a5915f",
   "lastOpenFiles": [
-    "Templates/texto-grande.md",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
+    "Excalidraw/Week1-Exercises 2024-08-26 11.27.50.excalidraw.md",
+    "10. Personal.md",
+    "Templates/texto-grande.md",
     "Templates/tabla de contenido.md",
     "Templates/Sabado.md",
     "Templates/Registro de Estudios.md",
@@ -331,8 +343,6 @@
     "🧘Realization Note.md",
     "ANEXOS/Ejercicios - Plantilla 2024-08-28 15.07.45.excalidraw.md",
     "ANEXOS/Pasted Image 20240828150801_222.png",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-27 20.42.43.excalidraw.md",
-    "00. Obsidian.md",
     "ANEXOS/Pasted Image 20240828103006_969.png",
     "ANEXOS/Pasted Image 20240827204314_078.png",
     "ANEXOS/Pasted Image 20240827202225_851.png",
