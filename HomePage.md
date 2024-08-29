@@ -24,9 +24,9 @@ banner_x: 0
 	
 	const lifespan = { year: 80 } 
 	const birthday = DateTime.fromObject({
-	    year: 2001,
-	    month: 6,
-	    day: 9
+	    year: 2003,
+	    month: 4,
+	    day: 14
 	});
 	const deathday = birthday.plus(lifespan)
 	
