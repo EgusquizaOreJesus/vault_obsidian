@@ -18,29 +18,29 @@ tags: [excalidraw]
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.3.0",
 	"elements": [
 		{
-			"id": "QQU-nMLQw2bHUxHSqm3NT",
 			"type": "freedraw",
-			"x": -371.3063049316406,
-			"y": -239.55938720703125,
-			"width": 600.0000610351562,
-			"height": 212.39999389648438,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 46,
+			"versionNonce": 1091941709,
+			"index": "a0",
+			"isDeleted": false,
+			"id": "QQU-nMLQw2bHUxHSqm3NT",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -371.3063049316406,
+			"y": -239.55938720703125,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 600.0000610351562,
+			"height": 212.39999389648438,
+			"seed": 1380930765,
 			"groupIds": [],
 			"frameId": null,
-			"index": "a0",
 			"roundness": null,
-			"seed": 1380930765,
-			"version": 46,
-			"versionNonce": 1091941709,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1724910684546,
 			"link": null,
 			"locked": false,
@@ -222,12 +222,9 @@ tags: [excalidraw]
 					207.60000610351562
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				534.0000610351562,
-				207.60000610351562
-			]
+			"pressures": []
 		}
 	],
 	"appState": {
@@ -245,10 +242,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 696.3187866210938,
-		"scrollY": 573.6469116210938,
+		"scrollX": 485.4656677246094,
+		"scrollY": 420.18284606933594,
 		"zoom": {
-			"value": 1
+			"value": 2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
