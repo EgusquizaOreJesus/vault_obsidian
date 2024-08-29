@@ -121,11 +121,9 @@
             "id": "dc2e3c09aae0ec0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week2 - Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png"
               }
             }
           }
@@ -223,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week2 - Notes.md",
+                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week2 - Notes.md",
+                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week2 - Notes.md"
+                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png"
               }
             }
           },
@@ -366,8 +364,10 @@
   },
   "active": "dc2e3c09aae0ec0f",
   "lastOpenFiles": [
-    "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes3.md",
+    "ANEXOS/Countdowssn 2024-08-29 01.04.07.excalidraw.png",
+    "Universidad/Ciclo 6/ADA/Semana1/Semana1.md",
     "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week2 - Notes.md",
+    "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes3.md",
     "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md",
     "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
     "Excalidraw/Week1-Notes1 2024-08-26 12.02.09.excalidraw.md",
@@ -377,7 +377,6 @@
     "ANEXOS/Countdowssn 2024-08-29 01.04.07.excalidraw.md",
     "ANEXOS/ejercicios-intro.pdf",
     "ANEXOS/Countdowssn 2024-08-29 01.04.52.excalidraw.md",
-    "ANEXOS/Countdowssn 2024-08-29 01.04.07.excalidraw.png",
     "ANEXOS/Countdowssn 2024-08-29 01.02.28.excalidraw.md",
     "ANEXOS/Countdowssn 2024-08-29 01.01.18.excalidraw.md",
     "ANEXOS/Countdowssn 2024-08-29 00.58.46.excalidraw.md",
@@ -399,8 +398,6 @@
     "Templates/Sabado.md",
     "Templates/Registro de Estudios.md",
     "Templates/People Template.md",
-    "Templates/Paper Template.md",
-    "Templates/Book Template.md",
     "ANEXOS/Pasted Image 20240828192043_837.png",
     "ANEXOS/Pasted Image 20240828150801_222.png",
     "Universidad/Ciclo 6/ADA/Apuntes",
