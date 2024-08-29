@@ -35,19 +35,9 @@
             "id": "6dfb0c23f7dca6a0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 00.51.21.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "1b39b7e480f7d2d6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 00.51.21.excalidraw.md"
+                "file": "ANEXOS/Countdowssn 2024-08-29 00.51.21.excalidraw.png"
               }
             }
           },
@@ -94,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 00.51.21.excalidraw.md",
+                "file": "ANEXOS/Countdowssn 2024-08-29 00.51.21.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 00.51.21.excalidraw.md",
+                "file": "ANEXOS/Countdowssn 2024-08-29 00.51.21.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 00.51.21.excalidraw.md"
+                "file": "ANEXOS/Countdowssn 2024-08-29 00.51.21.excalidraw.png"
               }
             }
           },
@@ -328,11 +318,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1b39b7e480f7d2d6",
+  "active": "6dfb0c23f7dca6a0",
   "lastOpenFiles": [
+    "ANEXOS/Countdowssn 2024-08-29 00.51.21.excalidraw.md",
     "Countdowssn.md",
     "ANEXOS/Countdowssn 2024-08-29 00.51.21.excalidraw.png",
-    "ANEXOS/Countdowssn 2024-08-29 00.51.21.excalidraw.md",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
     "ANEXOS/ejercicios-intro.pdf",
     "Templates/Daily_Note_Template.md",
