@@ -39,7 +39,7 @@
               "type": "markdown",
               "state": {
                 "file": "Countdowssn.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -116,25 +116,19 @@
                 "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png"
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "8157cbd427375bb6",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "80b099dbbccab6cd",
+            "id": "dc2e3c09aae0ec0f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png"
+                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
+                "file": "Countdowssn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
+                "file": "Countdowssn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png"
+                "file": "Countdowssn.md"
               }
             }
           },
@@ -368,18 +362,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "80b099dbbccab6cd",
+  "active": "968394827d7ad52a",
   "lastOpenFiles": [
-    "Countdowssn.md",
+    "Templates/texto-grande.md",
+    "ANEXOS/Countdowssn 2024-08-29 01.04.07.excalidraw.md",
     "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md",
     "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
+    "Countdowssn.md",
+    "ANEXOS/ejercicios-intro.pdf",
     "ANEXOS/Countdowssn 2024-08-29 01.04.52.excalidraw.md",
     "ANEXOS/Countdowssn 2024-08-29 01.04.07.excalidraw.png",
-    "ANEXOS/Countdowssn 2024-08-29 01.04.07.excalidraw.md",
     "ANEXOS/Countdowssn 2024-08-29 01.02.28.excalidraw.md",
     "ANEXOS/Countdowssn 2024-08-29 01.01.18.excalidraw.md",
-    "ANEXOS/ejercicios-intro.pdf",
-    "Templates/texto-grande.md",
     "ANEXOS/Countdowssn 2024-08-29 00.58.46.excalidraw.md",
     "ANEXOS/Countdown 2024-08-29 00.41.24.excalidraw.md",
     "ANEXOS/Countdowssn 2024-08-29 00.45.36.excalidraw.md",
