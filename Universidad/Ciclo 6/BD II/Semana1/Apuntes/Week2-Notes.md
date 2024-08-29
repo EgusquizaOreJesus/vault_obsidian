@@ -58,4 +58,17 @@ Esta tecnica no realiza movimientos, solamente jugamos con los punteros
 2. Actualizamos los punteros
 
 Utilidad, la recontruccion es menos costosa ya que se siguen noma los punteros
+En este caso tenemos estos costos:
+USANDO UN CAMPO EXTRA DE PUNTEROS
+Search: O(log n ) + O(k)
+
+### Trabajando con un solo archivo:
+![[Pasted image 20240829172151.png | center]]
+
+Como eliminamos?
+
+SIGUEN SIENDO MUY COSTOSO POR EL REBUILD
+
+OTRA FORMA DE HACERLO MAS EFICIENTE ES CON ARBOLITOS 
+El desbalanceo es el principal problema de un arbol binario de busqueda
 
