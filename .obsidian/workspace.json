@@ -39,10 +39,20 @@
               "type": "markdown",
               "state": {
                 "file": "Countdowssn.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "80b099dbbccab6cd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md"
+              }
             }
           },
           {
@@ -106,9 +116,19 @@
                 "file": "ANEXOS/Countdown 2024-08-29 00.41.24.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "034cb0f85abe1ef1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Countdowssn.md",
+                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Countdowssn.md",
+                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Countdowssn.md"
+                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md"
               }
             }
           },
@@ -342,10 +362,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "968394827d7ad52a",
+  "active": "80b099dbbccab6cd",
   "lastOpenFiles": [
-    "ANEXOS/Countdowssn 2024-08-29 01.04.52.excalidraw.md",
+    "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
+    "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md",
     "Countdowssn.md",
+    "ANEXOS/Countdowssn 2024-08-29 01.04.52.excalidraw.md",
     "ANEXOS/Countdowssn 2024-08-29 01.04.07.excalidraw.png",
     "ANEXOS/Countdowssn 2024-08-29 01.04.07.excalidraw.md",
     "ANEXOS/Countdowssn 2024-08-29 01.02.28.excalidraw.md",
@@ -376,11 +398,8 @@
     "Templates/Capture Template.md",
     "Templates/Dashboard.md",
     "Templates/example_indice.md",
-    "Templates/generateCards2.md",
-    "Templates/Note Template.md",
     "ANEXOS/Pasted Image 20240828192043_837.png",
     "ANEXOS/Pasted Image 20240828150801_222.png",
-    "ANEXOS/Pasted Image 20240828103006_969.png",
     "Universidad/Ciclo 6/ADA/Apuntes",
     "Universidad/Ciclo 6/ADA/Ejercicios/Continua1",
     "Templates/Latex_Codes/simbolos_matematicos.png.opdownload",
