@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f6c13a687d73cf6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "9d90f52c1007d401",
             "type": "leaf",
             "state": {
@@ -29,20 +15,6 @@
               "state": {
                 "file": "ANEXOS/ejercicios-intro.pdf"
               }
-            }
-          },
-          {
-            "id": "968394827d7ad52a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Countdowssn.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
             }
           },
           {
@@ -62,18 +34,6 @@
               "type": "excalidraw",
               "state": {
                 "file": "ANEXOS/Countdowssn 2024-08-29 01.04.07.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "326742800260da9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/texto-grande.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -108,27 +68,19 @@
             }
           },
           {
-            "id": "034cb0f85abe1ef1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png"
-              }
-            }
-          },
-          {
             "id": "dc2e3c09aae0ec0f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png"
+                "file": "HomePage.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -221,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png"
+                "file": "HomePage.md"
               }
             }
           },
@@ -364,12 +316,12 @@
   },
   "active": "dc2e3c09aae0ec0f",
   "lastOpenFiles": [
+    "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
     "ANEXOS/Countdowssn 2024-08-29 01.04.07.excalidraw.png",
     "Universidad/Ciclo 6/ADA/Semana1/Semana1.md",
     "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week2 - Notes.md",
     "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes3.md",
     "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md",
-    "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
     "Excalidraw/Week1-Notes1 2024-08-26 12.02.09.excalidraw.md",
     "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes1.md",
     "Countdowssn.md",
