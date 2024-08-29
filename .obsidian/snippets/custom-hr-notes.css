@@ -1,0 +1,19 @@
+.custom-hr hr {
+    border: none;
+    height: 3px;
+    /* Cambia este valor para ajustar el grosor */
+    /* Cambia este valor al color que prefieras */
+    border-top: var(--hr-thickness) solid;
+}
+
+.custom-hr .normal{
+    border: none;
+    border-top: var(--hr-thickness) solid;
+    border-color: var(--hr-color);
+}
+
+.center-text{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}

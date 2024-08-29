@@ -1,0 +1,1 @@
+<span style="font-size: <% tp.system.prompt("Introduce el tamaño del texto (ej. 24px)") %>;"><% tp.system.prompt("Introduce el texto que quieres agrandar") %></span>

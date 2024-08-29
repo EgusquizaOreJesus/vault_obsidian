@@ -1,0 +1,15 @@
+#barra_custom{
+    height: 10px;
+}
+.barra_custom{
+    width: 100%;
+}
+
+.markdown-preview-view{
+    padding-bottom: 200px;
+    padding-left: 50px;
+}
+.math-block {
+    font-size: 2.5rem;
+    /* Cambia el tamaño según lo necesites */
+}

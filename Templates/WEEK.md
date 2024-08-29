@@ -1,0 +1,1 @@
+- [ ] Curso de ADA 🔁 every week on Saturday

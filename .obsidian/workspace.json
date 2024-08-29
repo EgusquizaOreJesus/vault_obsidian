@@ -1,0 +1,347 @@
+{
+  "main": {
+    "id": "716deabc79f68a52",
+    "type": "split",
+    "children": [
+      {
+        "id": "69eaea9dbcb2c20f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f6c13a687d73cf6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9d90f52c1007d401",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ANEXOS/ejercicios-intro.pdf"
+              }
+            }
+          },
+          {
+            "id": "6dfb0c23f7dca6a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily_Note_Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "326742800260da9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/texto-grande.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c39f840cd443a052",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2039bdbc00e5433f",
+    "type": "split",
+    "children": [
+      {
+        "id": "79ff9e57ec3fb40a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3430e2f81e52f544",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5f8808de53f7c50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:ADA",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e70f598fb3635052",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "cd9fb85a24554a30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ada5a24371790f6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ANEXOS/ejercicios-intro.pdf"
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.01874923706055
+  },
+  "right": {
+    "id": "233fd4e300ba16e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1946c3f90da4d353",
+        "type": "tabs",
+        "dimension": 29.259259259259256,
+        "children": [
+          {
+            "id": "aed9ad13e347b24a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1f1216e3ad393ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ec93ae07ac207cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30a8b9fdc1babe48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da09345fe3646872",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7914e6f29da61ddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily_Note_Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99135b2be10adef5",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "46cc9b9c09b23229",
+        "type": "tabs",
+        "dimension": 29.629629629629626,
+        "children": [
+          {
+            "id": "b98574c6132976e5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "bbf43ae9479521e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Calendar View.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "85da3c3934698409",
+        "type": "tabs",
+        "dimension": 41.11111111111111,
+        "children": [
+          {
+            "id": "3b8818056996e131",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Timeline/Tasks Timeline.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 437
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "c39f840cd443a052",
+  "lastOpenFiles": [
+    "Templates/texto-grande.md",
+    "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
+    "Templates/tabla de contenido.md",
+    "Templates/Sabado.md",
+    "Templates/Registro de Estudios.md",
+    "Templates/People Template.md",
+    "Templates/Paper Template.md",
+    "Templates/Book Template.md",
+    "Templates/Capture Template.md",
+    "Templates/Daily_Note_Template.md",
+    "Templates/Dashboard.md",
+    "Templates/example_indice.md",
+    "Templates/generateCards2.md",
+    "ANEXOS/ejercicios-intro.pdf",
+    "Templates/Note Template.md",
+    "Daily_Notes/2024-08-28.md",
+    "Calendar/Timeline/Tasks Timeline.md",
+    "ANEXOS/Ejercicios - Plantilla 2024-08-28 17.09.21.excalidraw.md",
+    "ANEXOS/Ejercicios - Plantilla 2024-08-28 16.27.05.excalidraw.md",
+    "ANEXOS/Ejercicios - Plantilla 2024-08-28 19.20.14.excalidraw.md",
+    "ANEXOS/Ejercicios - Plantilla 2024-08-28 19.29.22.excalidraw.md",
+    "ANEXOS/Pasted Image 20240828192043_837.png",
+    "ANEXOS/Ejercicios - Plantilla 2024-08-27 20.31.01.excalidraw.md",
+    "Universidad/Ciclo 6/ADA/ADA.md",
+    "🧘Realization Note.md",
+    "ANEXOS/Ejercicios - Plantilla 2024-08-28 15.07.45.excalidraw.md",
+    "ANEXOS/Pasted Image 20240828150801_222.png",
+    "ANEXOS/Ejercicios - Plantilla 2024-08-27 20.42.43.excalidraw.md",
+    "00. Obsidian.md",
+    "ANEXOS/Pasted Image 20240828103006_969.png",
+    "ANEXOS/Pasted Image 20240827204314_078.png",
+    "ANEXOS/Pasted Image 20240827202225_851.png",
+    "ANEXOS/Pasted Image 20240827184639_930.png",
+    "ANEXOS/Pasted Image 20240827184044_407.png",
+    "ANEXOS/Pasted Image 20240827183105_029.png",
+    "Templates/Latex_Codes/operaciones_matematicas.png",
+    "Universidad/Ciclo 6/ADA/Apuntes",
+    "ANEXOS/image (2).png",
+    "Universidad/Ciclo 6/ADA/Ejercicios/Continua1",
+    "Templates/Latex_Codes/simbolos_matematicos.png.opdownload",
+    "Templates/Latex_Codes",
+    "Sin nombre",
+    "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Sin nombre",
+    "ANEXOS",
+    "Excalidraw",
+    "Universidad/Ciclo 6/ADA/Images",
+    "Sin título.canvas"
+  ]
+}

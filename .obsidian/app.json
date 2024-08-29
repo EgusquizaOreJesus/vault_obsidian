@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "source",
+  "showInlineTitle": true,
+  "readableLineLength": false,
+  "livePreview": true,
+  "autoConvertHtml": true,
+  "vimMode": false,
+  "focusNewTab": true,
+  "attachmentFolderPath": "ANEXOS"
+}

@@ -1,0 +1,26 @@
+{
+  "enabledCssSnippets": [
+    "【Main】ITS callouts (infobox, cards)",
+    "【Main】ITS theme Image Adjustment",
+    "【Main】MCL Multi Column",
+    "【Main】Minimal Cards",
+    "【Theme】clean embdeds all",
+    "【Tool】MInimal Circle Images",
+    "Centering Images",
+    "custom-admonitions.1a5dfa",
+    "dashboard",
+    "gradient_custom_callouts",
+    "extended-colorschemes",
+    "【Tool】MInimal Image Zoom",
+    "MCL Wide Views",
+    "MCL Multi Column",
+    "Nevereverland",
+    "custom-hr-notes"
+  ],
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "accentColor": "#7555be",
+  "nativeMenus": false,
+  "baseFontSizeAction": false,
+  "baseFontSize": 21
+}
