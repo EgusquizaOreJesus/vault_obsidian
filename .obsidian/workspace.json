@@ -34,11 +34,15 @@
           {
             "id": "968394827d7ad52a",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.01.18.excalidraw.md"
-              }
+                "file": "Countdowssn.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           },
           {
@@ -177,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.01.18.excalidraw.md",
+                "file": "Countdowssn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.01.18.excalidraw.md",
+                "file": "Countdowssn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.01.18.excalidraw.md"
+                "file": "Countdowssn.md"
               }
             }
           },
@@ -320,6 +324,7 @@
   },
   "active": "968394827d7ad52a",
   "lastOpenFiles": [
+    "ANEXOS/Countdowssn 2024-08-29 01.02.28.excalidraw.md",
     "Countdowssn.md",
     "ANEXOS/Countdowssn 2024-08-29 01.01.18.excalidraw.md",
     "ANEXOS/ejercicios-intro.pdf",
