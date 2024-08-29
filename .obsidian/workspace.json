@@ -46,16 +46,6 @@
             }
           },
           {
-            "id": "80b099dbbccab6cd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "7c011e5c191cb903",
             "type": "leaf",
             "state": {
@@ -128,7 +118,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "8157cbd427375bb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80b099dbbccab6cd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md",
+                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md",
+                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md"
+                "file": "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png"
               }
             }
           },
@@ -364,9 +370,9 @@
   },
   "active": "80b099dbbccab6cd",
   "lastOpenFiles": [
-    "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
-    "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md",
     "Countdowssn.md",
+    "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.md",
+    "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
     "ANEXOS/Countdowssn 2024-08-29 01.04.52.excalidraw.md",
     "ANEXOS/Countdowssn 2024-08-29 01.04.07.excalidraw.png",
     "ANEXOS/Countdowssn 2024-08-29 01.04.07.excalidraw.md",
