@@ -72,3 +72,5 @@ SIGUEN SIENDO MUY COSTOSO POR EL REBUILD
 OTRA FORMA DE HACERLO MAS EFICIENTE ES CON ARBOLITOS 
 El desbalanceo es el principal problema de un arbol binario de busqueda
 
+# FIJA PARA EXAMEN
+Como implementaste la eliminacion reusando los espacios libres, es decir, despues de eliminar, ese espacio debe quedar libre para ser ocupado por un nuevo registro
