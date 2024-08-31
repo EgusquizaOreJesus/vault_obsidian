@@ -11,26 +11,15 @@
             "id": "84e9257c035bfb5e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c39f840cd443a052",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/2024-08-30.md",
+                "file": "HomePage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2024-08-30.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2024-08-30.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2024-08-30.md"
+                "file": "HomePage.md"
               }
             }
           },
@@ -246,10 +235,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c39f840cd443a052",
+  "active": "84e9257c035bfb5e",
   "lastOpenFiles": [
-    "Calendar/Timeline/Tasks Timeline.md",
     "Daily_Notes/2024-08-30.md",
+    "Calendar/Timeline/Tasks Timeline.md",
     "Daily_Notes/2024-08-29.md",
     "HomePage.md",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week2-Notes.md",
