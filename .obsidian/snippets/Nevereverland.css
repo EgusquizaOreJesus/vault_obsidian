@@ -13,3 +13,13 @@
     font-size: 2.5rem;
     /* Cambia el tamaño según lo necesites */
 }
+
+.pdf-embed {
+    max-width: 50%;
+    /* Ajusta el tamaño al 80% del ancho de la nota */
+    height: auto;
+    /* Ajusta automáticamente la altura */
+    display: block;
+    margin: 0 auto;
+    /* Centra el PDF */
+}

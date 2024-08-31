@@ -36,6 +36,8 @@ Cada cierto tiempo el archivo de datos debe reconstruirse con los registros del 
 ![Descripción de la imagen](./hola.pdf)
 
 
+
+
 ![](/ANEXOS/Pasted%20image%2020240831103102.png)
 
 ---
