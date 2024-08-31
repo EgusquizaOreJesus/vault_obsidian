@@ -62,5 +62,13 @@
       ],
       "key": "R"
     }
+  ],
+  "templater-obsidian:Templates/inserta_anexo.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad5"
+    }
   ]
 }

@@ -27,7 +27,8 @@
     "Templates/Capture Template.md",
     "Templates/generateCards2.md",
     "Templates/texto-grande.md",
-    "Templates/GenerateCard_Custom.md"
+    "Templates/GenerateCard_Custom.md",
+    "Templates/inserta_anexo.md"
   ],
   "startup_templates": [
     ""

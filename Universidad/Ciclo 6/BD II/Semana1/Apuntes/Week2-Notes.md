@@ -28,9 +28,12 @@ Insertar en un heap (es decir siempre al final): Las nuevas inserciones se van a
 Mantener un limite máximo de K registros en el espacio auxiliar 
 La búsqueda se debe hacer en ambos espacios.
 Cada cierto tiempo el archivo de datos debe reconstruirse con los registros del espacio auxiliar.
+![](ANEXOS/Pasted%20image%2020240831104717.png)
+![](/ANEXOS/hola.png)
+
 
 ![../../../../../ANEXOS/Pasted image 20240831101053.png | center](/ANEXOS/Pasted%20image%2020240831101053.png)
-![Descripción de la imagen](./MINA.jpg)
+![Descripción de la imagen](./hola.pdf)
 
 
 ![](/ANEXOS/Pasted%20image%2020240831103102.png)
