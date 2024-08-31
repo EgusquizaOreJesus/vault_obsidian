@@ -30,6 +30,7 @@ La búsqueda se debe hacer en ambos espacios.
 Cada cierto tiempo el archivo de datos debe reconstruirse con los registros del espacio auxiliar.
 
 ![[ANEXOS/Pasted image 20240831095931.png]]
+
 ![[Pasted image 20240829164316.png | center]]
 
 ---
