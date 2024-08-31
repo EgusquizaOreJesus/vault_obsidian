@@ -29,9 +29,9 @@ Mantener un limite máximo de K registros en el espacio auxiliar
 La búsqueda se debe hacer en ambos espacios.
 Cada cierto tiempo el archivo de datos debe reconstruirse con los registros del espacio auxiliar.
 
-![[ANEXOS/Pasted image 20240831095931.png]]
+![[../../../../../ANEXOS/Pasted image 20240831101053.png]]
 
-![[Pasted image 20240829164316.png | center]]
+![[../../../../../ANEXOS/Pasted image 20240829164316.png]]
 
 ---
 Manteniendo dos archivos, el auxiliar es un heap
@@ -50,7 +50,7 @@ rebuild: O(n + k) => O(n)
 
 ---
 #### Inserciones enlazadas:
-![[Pasted image 20240829164831.png]]
+![[../../../../../ANEXOS/Pasted image 20240829164831.png]]
 Tenica muy usada, porque minimiza los acceso a memoria secundaria, porque aumenta memoria en el disco duro, que no es costoso ya que se tiene teras de datos.
 Esta tecnica no realiza movimientos, solamente jugamos con los punteros
 #### Pasos:
@@ -63,7 +63,7 @@ USANDO UN CAMPO EXTRA DE PUNTEROS
 Search: O(log n ) + O(k)
 
 ### Trabajando con un solo archivo:
-![[Pasted image 20240829172151.png | center]]
+![[../../../../../ANEXOS/Pasted image 20240829172151.png]]
 
 Como eliminamos?
 
