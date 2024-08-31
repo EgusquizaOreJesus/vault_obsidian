@@ -23,14 +23,14 @@ Es conveniente ordenar por la llave primaria, una vez que el archivo ya esta ord
 search: O(log n)
 insert: O(log n) + O(n) -> la insercion es cara
 
-![[Pasted image 20240829163717.png]]
+![[Anexos/Pasted image 20240829163717.png]]
 
 ### Optimizar el insert
 #### Estrategia del espacio auxiliar:
 Insertar en un heap (es decir siempre al final): Las nuevas inserciones se van almacenando en un espacio auxiliar
 Mantener un limite máximo de K registros en el espacio auxiliar 
 La búsqueda se debe hacer en ambos espacios.
-Cada cierto tiempo el archivo de datos debe reconstruirse con los registros del espacio auxiliar.
+Cada cierto tiempo el archivo de datos debe reconstruirse con los registros del espacio auxiliar.![](Pasted%20image%2020240831095516.png)
 ![[Pasted image 20240829164316.png | center]]
 
 ---
@@ -74,3 +74,6 @@ El desbalanceo es el principal problema de un arbol binario de busqueda
 
 # FIJA PARA EXAMEN
 Como implementaste la eliminacion reusando los espacios libres, es decir, despues de eliminar, ese espacio debe quedar libre para ser ocupado por un nuevo registro
+
+
+hola mundo como estas 

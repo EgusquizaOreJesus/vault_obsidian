@@ -7,5 +7,7 @@
   "autoConvertHtml": true,
   "vimMode": false,
   "focusNewTab": true,
-  "attachmentFolderPath": "ANEXOS"
+  "attachmentFolderPath": "ANEXOS",
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
 }
