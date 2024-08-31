@@ -30,7 +30,7 @@ La búsqueda se debe hacer en ambos espacios.
 Cada cierto tiempo el archivo de datos debe reconstruirse con los registros del espacio auxiliar.
 
 ![../../../../../ANEXOS/Pasted image 20240831101053.png](ANEXOS/Pasted%20image%2020240831101053.png)
-![Descripción de la imagen](./ddd.png)
+![Descripción de la imagen](./MINA.jpg)
 
 
 
