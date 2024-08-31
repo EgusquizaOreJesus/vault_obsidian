@@ -9,6 +9,6 @@
   "focusNewTab": true,
   "attachmentFolderPath": "ANEXOS",
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "newLinkFormat": "absolute"
 }
