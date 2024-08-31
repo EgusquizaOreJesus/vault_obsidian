@@ -7,7 +7,7 @@
   "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": false,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-light": false,
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-material-mint-light",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-solarized-light",
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-royal-velvet",
   "anuppuccin-theme-settings@@anp-background-image-toggle": true,
   "anuppuccin-theme-settings@@anp-active-line": "anp-current-line-border",
@@ -43,5 +43,6 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-peach",
   "anuppuccin-theme-settings@@anp-custom-bg-card-fg-opacity-dark": 0.65,
-  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false
+  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
+  "primary-theme@@interface_editor-bg": "editor-bg-default"
 }

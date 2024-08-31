@@ -1,4 +1,8 @@
-``` sh
+---
+title: "Generar archivo Xournal++"
+---
+
+```sh
 #!/bin/bash
 
 # Obtiene la ruta actual de la nota en Obsidian

@@ -78,5 +78,13 @@
       ],
       "key": "Numpad3"
     }
+  ],
+  "templater-obsidian:Templates/new_xournal.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad2"
+    }
   ]
 }

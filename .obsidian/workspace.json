@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7e2c0d0558ff01e5",
+        "id": "ec9213c7ad3c9e2c",
         "type": "tabs",
         "children": [
           {
-            "id": "6ee494e9652b4e6c",
+            "id": "5dfe247cfeae05c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas/Sin título.md",
+                "file": "Templates/WEEK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "973282e8db4bcd4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hola1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas/Sin título.md",
+                "file": "hola1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas/Sin título.md",
+                "file": "hola1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas/Sin título.md"
+                "file": "hola1.md"
               }
             }
           },
@@ -238,34 +251,39 @@
       "obsidian-tldraw-plugin:New Tldraw drawing": false
     }
   },
-  "active": "6ee494e9652b4e6c",
+  "active": "973282e8db4bcd4a",
   "lastOpenFiles": [
-    "22.xopp.md",
+    "Sin título.canvas",
+    "new_xournal.md",
+    "Templates/new_xournal.md",
+    "22222222.pdf",
+    "Universidad/Ciclo 6/BD II/hola.pdf",
+    "Universidad/Ciclo 6/BD II/hola.xopp",
+    "Templates/hola.pdf",
+    "HomePage.md",
+    "22222222.xopp",
+    "/22222222.xopp",
+    "gsag.pdf",
+    "gsag.xopp",
+    "/gsag.xopp",
+    "Templates/WEEK.md",
+    "Templates/hola.xopp",
+    "Templates/Lunes.md",
+    "Templates/Sabado.md",
+    "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week2-Notes.md",
+    "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes3.md",
+    "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week2 - Notes.md",
     "notas/Sin título.md",
+    "22.xopp.md",
     "Templates/xournal.md",
     "22.md",
-    "Templates/xournal.xopp",
-    "Templates/Lunes.md",
     "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes2.md",
-    "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes3.md",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana2/Exercises-Week2.md",
-    "Tldraw/TLDrawing 2024-08-31 11.34.25.tldr",
     "Tldraw/Drawing 2024-08-31 11.36.03.excalidraw.md",
-    "Tldraw/TLDrawing 2024-08-31 11.36.10.tldr",
-    "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week2-Notes.md",
-    "Sin título.md",
-    "Tldraw",
     "Excalidraw/Drawing 2024-08-31 11.31.32.excalidraw.md",
-    "Universidad/s.pdf",
-    "Universidad/s.xopp",
-    "/Universidad/s.xopp",
-    "5.pdf",
-    "5.xopp",
-    "/5.xopp",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/hola.png",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/MINA.jpg",
     "ANEXOS/Pasted Image 20240828150801_222.png",
-    "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week2 - Notes.md",
     "Templates/inserta_anexo.md",
     "ANEXOS/Pasted image 20240831104717.png",
     "ANEXOS/Pasted image 20240831103102.png",
@@ -279,13 +297,7 @@
     "ANEXOS/Week2 - Notes 2024-08-29 12.16.21.excalidraw.md",
     "Universidad/Ciclo 6/ADA/ADA.md",
     "Universidad/Ciclo 6/Ciclo 6.md",
-    "HomePage.md",
     "Daily_Notes/2024-08-30.md",
-    "Calendar/Timeline/Tasks Timeline.md",
-    "Daily_Notes/2024-08-29.md",
-    "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week1-Notes3.md",
-    "ANEXOS/Exercises-Week2 2024-08-29 15.40.44.excalidraw.md",
-    "ANEXOS/Exercises-Week2 2024-08-29 14.17.27.excalidraw.md",
-    "Sin título.canvas"
+    "Calendar/Timeline/Tasks Timeline.md"
   ]
 }
