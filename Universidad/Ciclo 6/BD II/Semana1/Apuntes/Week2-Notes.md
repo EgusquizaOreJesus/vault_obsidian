@@ -23,14 +23,15 @@ Es conveniente ordenar por la llave primaria, una vez que el archivo ya esta ord
 search: O(log n)
 insert: O(log n) + O(n) -> la insercion es cara
 
-![[Anexos/Pasted image 20240829163717.png]]
+![dna icon](dna%20icon.png)
 
 ### Optimizar el insert
 #### Estrategia del espacio auxiliar:
 Insertar en un heap (es decir siempre al final): Las nuevas inserciones se van almacenando en un espacio auxiliar
 Mantener un limite máximo de K registros en el espacio auxiliar 
 La búsqueda se debe hacer en ambos espacios.
-Cada cierto tiempo el archivo de datos debe reconstruirse con los registros del espacio auxiliar.![](Pasted%20image%2020240831095516.png)
+Cada cierto tiempo el archivo de datos debe reconstruirse con los registros del espacio auxiliar.
+![](Pasted%20image%2020240831095516.png)
 ![[Pasted image 20240829164316.png | center]]
 
 ---
