@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "juliusgb/obsidian-tldraw-plugin",
     "joleaf/obsidian-better-pdf-2-plugin",
     "noatpad/obsidian-banners"
   ],

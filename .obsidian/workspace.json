@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "69eaea9dbcb2c20f",
+        "id": "7e2c0d0558ff01e5",
         "type": "tabs",
         "children": [
           {
-            "id": "84e9257c035bfb5e",
+            "id": "6ee494e9652b4e6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week2-Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e200392790dca523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título.md",
+                "file": "notas/Sin título.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sin título.md",
+                "file": "notas/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sin título.md",
+                "file": "notas/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sin título.md"
+                "file": "notas/Sin título.md"
               }
             }
           },
@@ -171,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "46cc9b9c09b23229",
@@ -246,25 +234,35 @@
       "obsidian-day-planner:Timeline": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
-      "xournalpp:Create new Xournal++ note": false
+      "xournalpp:Create new Xournal++ note": false,
+      "obsidian-tldraw-plugin:New Tldraw drawing": false
     }
   },
-  "active": "3430e2f81e52f544",
+  "active": "6ee494e9652b4e6c",
   "lastOpenFiles": [
+    "22.xopp.md",
+    "notas/Sin título.md",
+    "Templates/xournal.md",
+    "22.md",
+    "Templates/xournal.xopp",
+    "Templates/Lunes.md",
+    "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes2.md",
+    "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes3.md",
+    "Universidad/Ciclo 6/ADA/Ejercicios/Semana2/Exercises-Week2.md",
+    "Tldraw/TLDrawing 2024-08-31 11.34.25.tldr",
+    "Tldraw/Drawing 2024-08-31 11.36.03.excalidraw.md",
+    "Tldraw/TLDrawing 2024-08-31 11.36.10.tldr",
+    "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week2-Notes.md",
+    "Sin título.md",
+    "Tldraw",
+    "Excalidraw/Drawing 2024-08-31 11.31.32.excalidraw.md",
+    "Universidad/s.pdf",
+    "Universidad/s.xopp",
+    "/Universidad/s.xopp",
     "5.pdf",
     "5.xopp",
     "/5.xopp",
-    "notas",
-    "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week2-Notes.md",
-    "Sin título.md",
-    "hola2.pdf",
-    "hola2.xopp",
-    "/hola2.xopp",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/hola.png",
-    "Universidad/Ciclo 6/BD II/Semana1/Apuntes/hola.pdf",
-    "Archivos/-Nota-09-32.pdf",
-    "hola.pdf",
-    "hola.xopp",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/MINA.jpg",
     "ANEXOS/Pasted Image 20240828150801_222.png",
     "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week2 - Notes.md",
@@ -287,16 +285,7 @@
     "Daily_Notes/2024-08-29.md",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week1-Notes3.md",
     "ANEXOS/Exercises-Week2 2024-08-29 15.40.44.excalidraw.md",
-    "Universidad/Ciclo 6/ADA/Ejercicios/Semana2/Exercises-Week2.md",
     "ANEXOS/Exercises-Week2 2024-08-29 14.17.27.excalidraw.md",
-    "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-28 17.09.21.excalidraw.md",
-    "ANEXOS/Countdowssn 2024-08-29 00.45.36.excalidraw.md",
-    "ANEXOS/Countdowssn 2024-08-29 01.04.07.excalidraw.md",
-    "Daily_Notes/2024-08-28.md",
-    "ANEXOS/Countdowssn 2024-08-29 01.04.52.excalidraw.md",
-    "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes1.md",
-    "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
     "Sin título.canvas"
   ]
 }

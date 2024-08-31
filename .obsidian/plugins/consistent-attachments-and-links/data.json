@@ -13,6 +13,6 @@
     ".obsidian/"
   ],
   "moveAttachmentsWithNote": true,
-  "showWarning": true,
+  "showWarning": false,
   "updateLinks": true
 }

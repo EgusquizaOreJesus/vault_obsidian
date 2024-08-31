@@ -1,0 +1,33 @@
+{
+	"name": "TLDrawing 2024-08-31 11.36.10.tldr",
+	"fileHandle": null,
+	"document": {
+		"id": "bIYIMm1JsVJ-5l3-0Q2C7",
+		"name": "TLDrawing 2024-08-31 11.36.10.tldr",
+		"version": 15.5,
+		"pages": {
+			"page": {
+				"id": "page",
+				"name": "Page 1",
+				"childIndex": 1,
+				"shapes": {},
+				"bindings": {}
+			}
+		},
+		"pageStates": {
+			"page": {
+				"id": "page",
+				"selectedIds": [],
+				"camera": {
+					"point": [
+						273.97,
+						-52.98
+					],
+					"zoom": 0.75
+				}
+			}
+		},
+		"assets": {}
+	},
+	"assets": {}
+}

@@ -28,7 +28,8 @@
     "Templates/generateCards2.md",
     "Templates/texto-grande.md",
     "Templates/GenerateCard_Custom.md",
-    "Templates/inserta_anexo.md"
+    "Templates/inserta_anexo.md",
+    "Templates/xournal.md"
   ],
   "startup_templates": [
     ""
