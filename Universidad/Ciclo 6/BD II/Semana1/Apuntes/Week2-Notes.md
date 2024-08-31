@@ -30,7 +30,8 @@ La búsqueda se debe hacer en ambos espacios.
 Cada cierto tiempo el archivo de datos debe reconstruirse con los registros del espacio auxiliar.
 
 ![../../../../../ANEXOS/Pasted image 20240831101053.png](ANEXOS/Pasted%20image%2020240831101053.png)
-![hola](banner.jpg)
+![](Universidad/Ciclo%206/BD%20II/Semana1/Apuntes/MINA.jpg)
+
 
 ---
 Manteniendo dos archivos, el auxiliar es un heap
