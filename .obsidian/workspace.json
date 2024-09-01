@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5dfe247cfeae05c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/WEEK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "973282e8db4bcd4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hola1.md",
+                "file": "HomePage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hola1.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hola1.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hola1.md"
+                "file": "HomePage.md"
               }
             }
           },
@@ -172,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "46cc9b9c09b23229",
@@ -253,6 +240,11 @@
   },
   "active": "973282e8db4bcd4a",
   "lastOpenFiles": [
+    "ANEXOS/-Nota-18-35.pdf",
+    "ANEXOS/-Nota-18-34.pdf",
+    "ANEXOS/-Nota-18-35.xopp",
+    "hola1.md",
+    "ANEXOS/-Nota-18-34.xopp",
     "Sin título.canvas",
     "new_xournal.md",
     "Templates/new_xournal.md",
@@ -264,10 +256,7 @@
     "22222222.xopp",
     "/22222222.xopp",
     "gsag.pdf",
-    "gsag.xopp",
-    "/gsag.xopp",
     "Templates/WEEK.md",
-    "Templates/hola.xopp",
     "Templates/Lunes.md",
     "Templates/Sabado.md",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week2-Notes.md",
@@ -297,7 +286,6 @@
     "ANEXOS/Week2 - Notes 2024-08-29 12.16.21.excalidraw.md",
     "Universidad/Ciclo 6/ADA/ADA.md",
     "Universidad/Ciclo 6/Ciclo 6.md",
-    "Daily_Notes/2024-08-30.md",
-    "Calendar/Timeline/Tasks Timeline.md"
+    "Daily_Notes/2024-08-30.md"
   ]
 }
