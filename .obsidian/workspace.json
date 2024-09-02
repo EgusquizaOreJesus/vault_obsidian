@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HomePage.md",
+                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana2/Exercises-Week2.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomePage.md",
+                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana2/Exercises-Week2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomePage.md",
+                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana2/Exercises-Week2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomePage.md"
+                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana2/Exercises-Week2.md"
               }
             }
           },
@@ -239,10 +239,15 @@
   },
   "active": "d56cf52ddcaa0ba5",
   "lastOpenFiles": [
+    "ANEXOS/Exercises-Week2 2024-08-29 14.17.27.excalidraw.md",
+    "Universidad/Ciclo 6/ADA/Ejercicios/Semana2/Exercises-Week2.md",
+    "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md",
+    "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week2 - Notes.md",
+    "Daily_Notes/2024-09-01.md",
+    "HomePage.md",
     "Daily_Notes/2024-08-30.md",
     "Daily_Notes/2024-08-31.md",
     "Calendar/Timeline/Tasks Timeline.md",
-    "HomePage.md",
     "ANEXOS/-Nota-01-58.pdf",
     "ANEXOS/-Nota-01-58.xopp",
     "ANEXOS/-Nota-18-35.pdf",
@@ -262,13 +267,11 @@
     "Templates/Sabado.md",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week2-Notes.md",
     "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes3.md",
-    "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week2 - Notes.md",
     "notas/Sin título.md",
     "22.xopp.md",
     "Templates/xournal.md",
     "22.md",
     "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes2.md",
-    "Universidad/Ciclo 6/ADA/Ejercicios/Semana2/Exercises-Week2.md",
     "Tldraw/Drawing 2024-08-31 11.36.03.excalidraw.md",
     "Excalidraw/Drawing 2024-08-31 11.31.32.excalidraw.md",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/hola.png",
@@ -282,9 +285,6 @@
     "ANEXOS/screenshot_1725115364.png",
     "ANEXOS/Pasted image 20240831101053.png",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Week1-Exercises.md",
-    "ANEXOS/Pasted.md",
-    "ANEXOS/Pasted image 20240831095931.png",
-    "ANEXOS/Week2 - Notes 2024-08-29 12.16.21.excalidraw.md",
-    "Universidad/Ciclo 6/ADA/ADA.md"
+    "ANEXOS/Pasted image 20240831095931.png"
   ]
 }
