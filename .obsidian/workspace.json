@@ -11,9 +11,11 @@
             "id": "2d2de0b1d8f5c515",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md"
+                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md",
+                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md",
+                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md"
+                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md"
               }
             }
           },
@@ -237,6 +239,7 @@
   },
   "active": "2d2de0b1d8f5c515",
   "lastOpenFiles": [
+    "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md",
     "ANEXOS/ADA_week2.pdf",
     "ANEXOS/ADA_week2.xopp",
     "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week2 - Notes.md",
@@ -247,7 +250,6 @@
     "Universidad/Ciclo 6/ADA/Apuntes/Semana2",
     "Daily_Notes/2024-08-31.md",
     "Daily_Notes/2024-09-01.md",
-    "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md",
     "ANEXOS/-Nota-23-57.pdf",
     "ANEXOS/-Nota-23-57.xopp",
     "ANEXOS/-Nota-01-58.xopp~",
@@ -257,7 +259,6 @@
     "ANEXOS/-Nota-01-58.pdf",
     "ANEXOS/-Nota-01-58.xopp",
     "ANEXOS/-Nota-18-35.pdf",
-    "ANEXOS/-Nota-18-34.pdf",
     "hola1.md",
     "Sin título.canvas",
     "new_xournal.md",
