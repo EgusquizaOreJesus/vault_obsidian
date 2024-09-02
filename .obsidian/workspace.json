@@ -11,13 +11,28 @@
             "id": "d56cf52ddcaa0ba5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md"
+                "file": "Daily_Notes/2024-09-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d2de0b1d8f5c515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily_Notes/2024-08-31.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md",
+                "file": "Daily_Notes/2024-08-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md",
+                "file": "Daily_Notes/2024-08-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md"
+                "file": "Daily_Notes/2024-08-31.md"
               }
             }
           },
@@ -235,15 +250,17 @@
       "obsidian-tldraw-plugin:New Tldraw drawing": false
     }
   },
-  "active": "d56cf52ddcaa0ba5",
+  "active": "2d2de0b1d8f5c515",
   "lastOpenFiles": [
+    "Daily_Notes/2024-09-01.md",
+    "HomePage.md",
+    "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md",
+    "ANEXOS/-Nota-23-57.pdf",
+    "ANEXOS/-Nota-23-57.xopp",
     "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week2 - Notes.md",
     "ANEXOS/-Nota-01-58.xopp~",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana2/Exercises-Week2.md",
     "ANEXOS/Exercises-Week2 2024-08-29 14.17.27.excalidraw.md",
-    "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md",
-    "Daily_Notes/2024-09-01.md",
-    "HomePage.md",
     "Daily_Notes/2024-08-30.md",
     "Daily_Notes/2024-08-31.md",
     "Calendar/Timeline/Tasks Timeline.md",
@@ -258,8 +275,6 @@
     "new_xournal.md",
     "Templates/new_xournal.md",
     "22222222.pdf",
-    "Universidad/Ciclo 6/BD II/hola.pdf",
-    "Universidad/Ciclo 6/BD II/hola.xopp",
     "Templates/WEEK.md",
     "Templates/Lunes.md",
     "Templates/Sabado.md",
