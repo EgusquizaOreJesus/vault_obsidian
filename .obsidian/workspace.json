@@ -11,11 +11,9 @@
             "id": "2d2de0b1d8f5c515",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
-                "mode": "source",
-                "source": false
+                "file": "ANEXOS/ADA_week2.pdf"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
+                "file": "ANEXOS/ADA_week2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
+                "file": "ANEXOS/ADA_week2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md"
+                "file": "ANEXOS/ADA_week2.pdf"
               }
             }
           },
@@ -239,6 +237,9 @@
   },
   "active": "2d2de0b1d8f5c515",
   "lastOpenFiles": [
+    "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
+    "ANEXOS/continua1_NAPA.xopp~",
+    "ANEXOS/ADA_week2.xopp~",
     "ANEXOS/continua1_NAPA.pdf",
     "ANEXOS/continua1_NAPA.xopp",
     "ANEXOS/ejercicios_macaco_piso.pdf",
@@ -254,9 +255,6 @@
     "Universidad/Ciclo 6/ADA/Apuntes/Semana2",
     "Daily_Notes/2024-08-31.md",
     "Daily_Notes/2024-09-01.md",
-    "ANEXOS/-Nota-23-57.pdf",
-    "ANEXOS/-Nota-23-57.xopp",
-    "ANEXOS/-Nota-01-58.xopp~",
     "ANEXOS/Exercises-Week2 2024-08-29 14.17.27.excalidraw.md",
     "Daily_Notes/2024-08-30.md",
     "Calendar/Timeline/Tasks Timeline.md",
