@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
-                "mode": "preview",
+                "file": "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Semana3/Week3-Notes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
+                "file": "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Semana3/Week3-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
+                "file": "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Semana3/Week3-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md"
+                "file": "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Semana3/Week3-Notes.md"
               }
             }
           },
@@ -239,6 +239,10 @@
   },
   "active": "484f12f691813049",
   "lastOpenFiles": [
+    "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Sin título.md",
+    "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Semana3/Week3-Notes.md",
+    "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Semana3",
+    "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
     "ANEXOS/continua1_NAPA.xopp~",
     "ANEXOS/-Nota-13-27.xopp~",
     "ANEXOS/-Nota-13-27.pdf",
@@ -248,13 +252,10 @@
     "Daily_Notes/2024-09-01.md",
     "ANEXOS/continua1_NAPA.pdf",
     "ANEXOS/ADA_week2.pdf",
-    "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
     "ANEXOS/ADA_week2.xopp~",
     "ANEXOS/continua1_NAPA.xopp",
     "ANEXOS/ejercicios_macaco_piso.pdf",
-    "ANEXOS/ejercicios_macaco_piso.xopp",
     "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md",
-    "ANEXOS/ADA_week2.xopp",
     "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week2 - Notes.md",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana2/Exercises-Week2.md",
     "Universidad/Ciclo 6/ADA/Apuntes/Semana2/Week2-Notes.md",
@@ -275,7 +276,6 @@
     "22.xopp.md",
     "Templates/xournal.md",
     "22.md",
-    "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes2.md",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/hola.png",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/MINA.jpg",
     "ANEXOS/Pasted Image 20240828150801_222.png",
