@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HomePage.md",
+                "file": "Daily_Notes/2024-09-02.md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomePage.md",
+                "file": "Daily_Notes/2024-09-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomePage.md",
+                "file": "Daily_Notes/2024-09-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomePage.md"
+                "file": "Daily_Notes/2024-09-02.md"
               }
             }
           },
@@ -252,6 +252,7 @@
   },
   "active": "33115b39ea0696c7",
   "lastOpenFiles": [
+    "HomePage.md",
     "Daily_Notes/2024-09-02.md",
     "Daily_Notes/2024-09-01.md",
     "ANEXOS/continua1_NAPA.pdf",
@@ -268,7 +269,6 @@
     "ANEXOS/-Nota-23-57.xopp~",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana2/Exercises-Week2.md",
     "Universidad/Ciclo 6/ADA/Apuntes/Semana2/Week2-Notes.md",
-    "HomePage.md",
     "Universidad/Ciclo 6/ADA/Apuntes/Semana2",
     "Daily_Notes/2024-08-31.md",
     "ANEXOS/Exercises-Week2 2024-08-29 14.17.27.excalidraw.md",
