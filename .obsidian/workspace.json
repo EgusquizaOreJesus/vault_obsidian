@@ -11,8 +11,12 @@
             "id": "7c9938a4ae07ab9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily_Notes/2024-09-04.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2024-09-03.md",
+                "file": "Daily_Notes/2024-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2024-09-03.md",
+                "file": "Daily_Notes/2024-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2024-09-03.md"
+                "file": "Daily_Notes/2024-09-04.md"
               }
             }
           },
@@ -235,9 +239,10 @@
   },
   "active": "7c9938a4ae07ab9b",
   "lastOpenFiles": [
-    "Daily_Notes/2024-09-02.md",
     "Daily_Notes/2024-09-03.md",
+    "Daily_Notes/2024-09-04.md",
     "HomePage.md",
+    "Daily_Notes/2024-09-02.md",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Semana3/Week3-Notes.md",
     "ANEXOS/-Nota-13-27.xopp~",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Sin título.md",
@@ -271,7 +276,6 @@
     "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes3.md",
     "notas/Sin título.md",
     "22.xopp.md",
-    "Templates/xournal.md",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/hola.png",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/MINA.jpg",
     "ANEXOS/Pasted Image 20240828150801_222.png",
