@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9d910c9c048daa61",
+        "id": "f6fe5da8213198c8",
         "type": "tabs",
         "children": [
           {
-            "id": "b673930b58234629",
+            "id": "7c9938a4ae07ab9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HomePage.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomePage.md",
+                "file": "Daily_Notes/2024-09-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomePage.md",
+                "file": "Daily_Notes/2024-09-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomePage.md"
+                "file": "Daily_Notes/2024-09-03.md"
               }
             }
           },
@@ -237,8 +233,11 @@
       "obsidian-tldraw-plugin:New Tldraw drawing": false
     }
   },
-  "active": "b673930b58234629",
+  "active": "7c9938a4ae07ab9b",
   "lastOpenFiles": [
+    "Daily_Notes/2024-09-02.md",
+    "Daily_Notes/2024-09-03.md",
+    "HomePage.md",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Semana3/Week3-Notes.md",
     "ANEXOS/-Nota-13-27.xopp~",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Sin título.md",
@@ -247,8 +246,6 @@
     "ANEXOS/continua1_NAPA.xopp~",
     "ANEXOS/-Nota-13-27.pdf",
     "ANEXOS/-Nota-13-27.xopp",
-    "HomePage.md",
-    "Daily_Notes/2024-09-02.md",
     "Daily_Notes/2024-09-01.md",
     "ANEXOS/continua1_NAPA.pdf",
     "ANEXOS/ADA_week2.pdf",
