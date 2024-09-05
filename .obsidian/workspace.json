@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bca6838a59c18434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily_Notes/2024-09-04.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2ad6414925fc5009",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,12 +239,13 @@
   },
   "active": "2ad6414925fc5009",
   "lastOpenFiles": [
+    "ANEXOS/continua1_2.xopp~",
+    "ANEXOS/continua1_NAPA.xopp~",
+    "ANEXOS/plantilla_2_notaciones.xopp~",
     "Daily_Notes/2024-09-04.md",
     "HomePage.md",
     "Calendar/Timeline/Tasks Timeline.md",
     "ANEXOS/continua1_NAPA.pdf",
-    "ANEXOS/plantilla_2_notaciones.xopp~",
-    "ANEXOS/continua1_NAPA.xopp~",
     "ANEXOS/plantilla_2_notaciones.pdf",
     "ANEXOS/plantilla_2_notaciones.xopp",
     "ANEXOS/continua1_2.pdf",
