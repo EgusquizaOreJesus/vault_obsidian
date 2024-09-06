@@ -11,8 +11,12 @@
             "id": "c44292df85e8467e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HomePage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
