@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "67d13f89326f6077",
+        "id": "68ca91d4fcd283af",
         "type": "tabs",
         "children": [
           {
-            "id": "5230743231783202",
+            "id": "c44292df85e8467e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HomePage.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -237,7 +233,7 @@
       "obsidian-tldraw-plugin:New Tldraw drawing": false
     }
   },
-  "active": "5230743231783202",
+  "active": "c44292df85e8467e",
   "lastOpenFiles": [
     "ANEXOS/plantilla_2_notaciones.xopp~",
     "ANEXOS/continua1_2.xopp~",
