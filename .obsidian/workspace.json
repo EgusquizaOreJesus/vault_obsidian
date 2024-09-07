@@ -11,11 +11,9 @@
             "id": "3932551b01034b7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "HomePage.md",
-                "mode": "preview",
-                "source": false
+                "file": "ANEXOS/plantilla_2_notaciones.pdf"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomePage.md",
+                "file": "ANEXOS/plantilla_2_notaciones.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomePage.md",
+                "file": "ANEXOS/plantilla_2_notaciones.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomePage.md"
+                "file": "ANEXOS/plantilla_2_notaciones.pdf"
               }
             }
           },
@@ -239,6 +237,8 @@
   },
   "active": "3932551b01034b7e",
   "lastOpenFiles": [
+    "ANEXOS/ADA_week2.pdf",
+    "HomePage.md",
     "ANEXOS/-Nota-01-58.xopp~",
     "ANEXOS/plantilla_2_notaciones.xopp~",
     "ANEXOS/ejercicios_macaco_piso.pdf",
@@ -247,10 +247,7 @@
     "ANEXOS/-Nota-13-27.pdf",
     "ANEXOS/-Nota-18-34.pdf",
     "ANEXOS/-Nota-18-35.pdf",
-    "ANEXOS/ADA_week2.pdf",
     "ANEXOS/-Nota-23-57.pdf",
-    "ANEXOS/continua1_2.pdf",
-    "HomePage.md",
     "Daily_Notes/2024-09-04.md",
     "Calendar/Timeline/Tasks Timeline.md",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Week1-Exercises.md",
