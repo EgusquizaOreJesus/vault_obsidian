@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "68ca91d4fcd283af",
+        "id": "0d422933fb3ef045",
         "type": "tabs",
         "children": [
           {
-            "id": "c44292df85e8467e",
+            "id": "3932551b01034b7e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ANEXOS/ejercicios_macaco_piso.pdf"
+                "file": "HomePage.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANEXOS/ejercicios_macaco_piso.pdf",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANEXOS/ejercicios_macaco_piso.pdf",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANEXOS/ejercicios_macaco_piso.pdf"
+                "file": "HomePage.md"
               }
             }
           },
@@ -235,8 +237,11 @@
       "obsidian-tldraw-plugin:New Tldraw drawing": false
     }
   },
-  "active": "c44292df85e8467e",
+  "active": "3932551b01034b7e",
   "lastOpenFiles": [
+    "ANEXOS/-Nota-01-58.xopp~",
+    "ANEXOS/plantilla_2_notaciones.xopp~",
+    "ANEXOS/ejercicios_macaco_piso.pdf",
     "ANEXOS/continua1_NAPA.pdf",
     "ANEXOS/-Nota-01-58.pdf",
     "ANEXOS/-Nota-13-27.pdf",
@@ -246,9 +251,6 @@
     "ANEXOS/-Nota-23-57.pdf",
     "ANEXOS/continua1_2.pdf",
     "HomePage.md",
-    "ANEXOS/plantilla_2_notaciones.xopp~",
-    "ANEXOS/continua1_2.xopp~",
-    "ANEXOS/continua1_NAPA.xopp~",
     "Daily_Notes/2024-09-04.md",
     "Calendar/Timeline/Tasks Timeline.md",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Week1-Exercises.md",
