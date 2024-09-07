@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0d422933fb3ef045",
+        "id": "016f52acb12e7eae",
         "type": "tabs",
         "children": [
           {
-            "id": "3932551b01034b7e",
+            "id": "1fae5e6e05d31631",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ANEXOS/plantilla_2_notaciones.pdf"
+                "file": "HomePage.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANEXOS/plantilla_2_notaciones.pdf",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANEXOS/plantilla_2_notaciones.pdf",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANEXOS/plantilla_2_notaciones.pdf"
+                "file": "HomePage.md"
               }
             }
           },
@@ -235,8 +237,9 @@
       "obsidian-tldraw-plugin:New Tldraw drawing": false
     }
   },
-  "active": "3932551b01034b7e",
+  "active": "1fae5e6e05d31631",
   "lastOpenFiles": [
+    "ANEXOS/plantilla_2_notaciones.pdf",
     "ANEXOS/ADA_week2.pdf",
     "HomePage.md",
     "ANEXOS/-Nota-01-58.xopp~",
