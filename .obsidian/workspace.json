@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HomePage.md",
+                "file": "Daily_Notes/2024-09-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomePage.md",
+                "file": "Daily_Notes/2024-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomePage.md",
+                "file": "Daily_Notes/2024-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomePage.md"
+                "file": "Daily_Notes/2024-09-08.md"
               }
             }
           },
@@ -239,9 +239,11 @@
   },
   "active": "1fae5e6e05d31631",
   "lastOpenFiles": [
+    "Daily_Notes/2024-09-07.md",
+    "Daily_Notes/2024-09-08.md",
+    "HomePage.md",
     "ANEXOS/plantilla_2_notaciones.pdf",
     "ANEXOS/ADA_week2.pdf",
-    "HomePage.md",
     "ANEXOS/-Nota-01-58.xopp~",
     "ANEXOS/plantilla_2_notaciones.xopp~",
     "ANEXOS/ejercicios_macaco_piso.pdf",
@@ -250,7 +252,6 @@
     "ANEXOS/-Nota-13-27.pdf",
     "ANEXOS/-Nota-18-34.pdf",
     "ANEXOS/-Nota-18-35.pdf",
-    "ANEXOS/-Nota-23-57.pdf",
     "Daily_Notes/2024-09-04.md",
     "Calendar/Timeline/Tasks Timeline.md",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Week1-Exercises.md",
@@ -275,7 +276,6 @@
     "Templates/Lunes.md",
     "Templates/Sabado.md",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week2-Notes.md",
-    "Universidad/Ciclo 6/ADA/Semana1/Apuntes/Week1-Notes3.md",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/hola.png",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/MINA.jpg",
     "ANEXOS/Pasted Image 20240828150801_222.png",
