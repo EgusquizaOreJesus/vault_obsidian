@@ -3,7 +3,7 @@ cssclasses:
   - dashboard
 banner: "[[banner.jpg]]"
 banner_y: 0.597
-banner_x: 0
+banner_x: 0.105
 ---
 ---
 - ### ❇️Projects
