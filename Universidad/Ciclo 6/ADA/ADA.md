@@ -2,7 +2,6 @@
 banner: "[[banner.jpg]]"
 banner_y: 0.669
 cssclasses:
-  - Nevereverland
   - dashboard
 ---
 
