@@ -1,21 +1,12 @@
 {
   "enabledCssSnippets": [
     "【Main】ITS callouts (infobox, cards)",
-    "【Main】ITS theme Image Adjustment",
-    "【Main】MCL Multi Column",
-    "【Main】Minimal Cards",
-    "【Theme】clean embdeds all",
     "【Tool】MInimal Circle Images",
-    "Centering Images",
-    "custom-admonitions.1a5dfa",
-    "dashboard",
-    "gradient_custom_callouts",
-    "【Tool】MInimal Image Zoom",
+    "Nevereverland",
     "MCL Wide Views",
     "MCL Multi Column",
-    "Nevereverland",
-    "custom-hr-notes",
-    "extended-colorschemes"
+    "custom-admonitions.1a5dfa",
+    "Centering Images"
   ],
   "cssTheme": "Primary",
   "theme": "obsidian",

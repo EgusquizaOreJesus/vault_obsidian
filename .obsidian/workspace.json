@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "440e77f9115e198d",
+            "id": "2867ca20482acf48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/2024-08-26.md",
+                "file": "Universidad/Ciclo 6/ADA/ADA.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Notes/2024-08-26.md",
+                "file": "Universidad/Ciclo 6/ADA/ADA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Notes/2024-08-26.md",
+                "file": "Universidad/Ciclo 6/ADA/ADA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Notes/2024-08-26.md"
+                "file": "Universidad/Ciclo 6/ADA/ADA.md"
               }
             }
           },
@@ -192,8 +192,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "85da3c3934698409",
@@ -235,44 +234,43 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "440e77f9115e198d",
+  "active": "2867ca20482acf48",
   "lastOpenFiles": [
-    "Templates/Daily_Note_Template.md",
+    "Universidad/Ciclo 6/BD II/Semana1.md",
+    "ANEXOS/Pasted image 20240909115028.png",
+    "ANEXOS/Pasted image 20240909115025.png",
+    "Templates/Dashboard.md",
+    "Universidad/Ciclo 6/Sin título.md",
+    "Universidad/Ciclo 6/Ciclo 6.md",
+    "Universidad/Ciclo 6/ADA/ADA.md",
     "HomePage.md",
-    "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week1 - Notes 1.md",
+    "Calendar/Timeline/Tasks Timeline.md",
     "Daily_Notes/2024-09-09.md",
+    "Daily_Notes/2024-09-08.md",
+    "Daily_Notes/2024-09-07.md",
+    "Daily_Notes/2024-09-04.md",
+    "Daily_Notes/2024-09-03.md",
+    "Daily_Notes/2024-09-02.md",
+    "Daily_Notes/2024-09-01.md",
+    "Daily_Notes/2024-08-31.md",
+    "Daily_Notes/2024-08-30.md",
+    "Daily_Notes/2024-08-29.md",
+    "Daily_Notes/2024-08-28.md",
+    "Daily_Notes/2024-08-27.md",
+    "Daily_Notes/2024-08-26.md",
+    "Daily_Notes/2024-09-10.md",
+    "Templates/Daily_Note_Template.md",
+    "Templates/Book Template.md",
+    "Templates/(Every T) Etica y Tecnologia.md",
+    "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week1 - Notes 1.md",
     "ANEXOS/Week2 - Notes 2024-08-29 12.16.21.excalidraw.png",
     "ANEXOS/Countdowssn 2024-08-29 01.05.40.excalidraw.png",
-    "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.md",
     "ANEXOS/Week2 - Notes 2024-08-28 09.41.19.excalidraw.png",
-    "Universidad/Ciclo 6/ADA/Apuntes/Semana2/Week2-Notes.md",
-    "Universidad/Ciclo 6/ADA/Ejercicios/Continua1/Ejercicios- Continua1.md",
-    "Universidad/Ciclo 6/ADA/Ejercicios/Semana2/Exercises-Week2.md",
-    "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
-    "Excalidraw/Week1-Exercises 2024-08-26 13.54.41.excalidraw.md",
-    "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Week1-Exercises.md",
     "ANEXOS/Pasted image 20240909102135.png",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-28 19.29.22.excalidraw.md",
     "ANEXOS/Pasted image 20240909102117.png",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-26 17.55.35.excalidraw.md",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-26 23.29.30.excalidraw.md",
     "ANEXOS/Pasted image 20240909102048.png",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-27 18.46.22.excalidraw.md",
     "ANEXOS/Pasted image 20240909102009.png",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-26 18.02.43.excalidraw.md",
     "ANEXOS/Pasted image 20240909101932.png",
-    "ANEXOS/Pasted image 20240909101835.png",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-27 18.40.29.excalidraw.md",
-    "ANEXOS/Pasted image 20240909101816.png",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-27 18.30.34.excalidraw.md",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-26 17.39.55.excalidraw.md",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-27 18.26.16.excalidraw.md",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-27 18.03.20.excalidraw.md",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-28 17.09.21.excalidraw.md",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-28 16.27.05.excalidraw.md",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-28 15.07.45.excalidraw.md",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-28 19.20.14.excalidraw.md",
-    "ANEXOS/Ejercicios - Plantilla 2024-08-27 20.42.43.excalidraw.md",
     "Universidad/Ciclo 6/BD II/Material/Organizacion de Archivos 1 (6).pdf",
     "Universidad/Ciclo 6/BD II/Material/Organizacion de Archivos 2 (1).pdf",
     "Universidad/Ciclo 6/BD II/Material",
