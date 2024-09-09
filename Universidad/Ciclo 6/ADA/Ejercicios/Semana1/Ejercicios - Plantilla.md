@@ -47,37 +47,38 @@ Demuestre las siguientes desigualdades, dado que x, y son números reales arbitr
 $$ \lfloor x \rfloor + \lfloor y \rfloor \le \lfloor x + y \rfloor \le \lfloor x \rfloor + \lfloor y \rfloor + 1$$
 - [x] completado ✅ 2024-08-27
 #### Solucion:
-![[Ejercicios - Plantilla 2024-08-27 20.21.40.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909101250.png)
 
 ---
 ### Ejercicio b:
 $$  \lceil x \rceil + \lceil y \rceil  - 1 \le \lceil x + y \rceil \le \lceil x \rceil + \lceil y \rceil$$
 - [x] completado ✅ 2024-08-27
 #### Solucion:
-![[Ejercicios - Plantilla 2024-08-27 20.31.01.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909101330.png)
 #### Solucion Mejor:
-![[Ejercicios - Plantilla 2024-08-28 19.20.14.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909101347.png)
 ### Ejercicio c:
 $$ \frac{(n-1)}{2} \le \left\lfloor \frac{n}{2} \right\rfloor \le \frac{n}{2}$$
 - [x] completado ✅ 2024-08-28
 #### Solucion:
-![[Ejercicios - Plantilla 2024-08-27 20.42.43.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909101431.png)
 ### Ejercicio d:
 $$  \frac{n}{2} \le \left\lceil \frac{n}{2} \right\rceil \le \frac{(n+1)}{2} $$
 - [x] completado ✅ 2024-08-28
 #### Solucion:
-![[Ejercicios - Plantilla 2024-08-28 15.07.45.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909101519.png)
 ### Ejercicio e:
 $$ n = \left\lfloor \frac{n}{2} \right\rfloor + \left\lceil \frac{n}{2} \right\rceil$$
 - [x] completado ✅ 2024-08-28
 #### Solucion:
-![[Ejercicios - Plantilla 2024-08-28 16.27.05.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909101547.png)
 ### Ejercicio f:
 - Dado que ${ x \in \mathbb{R} ; \hspace{1mm} a,b \in \mathbb{Z} }$, mostrar que:
   $$ \left\lceil \frac{\left\lceil\frac{x}{a}\right\rceil}{b} \right\rceil = \left\lceil \frac{x}{ab} \right\rceil$$
 - [x] completado ✅ 2024-08-28
 #### Solucion:
-![[Ejercicios - Plantilla 2024-08-28 17.09.21.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909101625.png)
+![](ANEXOS/Pasted%20image%2020240909101640.png)
 ## Bloque 2:
 ### Ejercicio a:
 - Omitido por trivial
@@ -88,14 +89,14 @@ Demostrar que:
 $$ n \le 2^{\frac{n}{2}} \hspace{5mm} \forall \hspace{1mm} n \ge 4, n \in \mathbb{z^+}$$
 - [x] completado ✅ 2024-08-27
 #### Solucion:
-![[Ejercicios - Plantilla 2024-08-27 18.03.20.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909101716.png)
 ## Bloque 3:
 ### Ejercicio a:
 Buscar una forma simple de la suma:
 $$\sum_{k=1}^n(2k-1)$$
 - [x] completado ✅ 2024-08-26
 #### Solucion;
-![[Ejercicios - Plantilla 2024-08-26 17.39.55.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909101737.png)
 
 ---
 ### Ejercicio b:
@@ -103,7 +104,7 @@ Muestra que:
 $$ \sum_{k=1}^{\infty}(kx^k) = \frac{x}{(1-x)^2} \hspace{5mm} when \hspace{1mm}|x| < 1 $$
 - [x] completado ✅ 2024-08-27
 #### Solucion;
-![[Ejercicios - Plantilla 2024-08-27 18.26.16.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909101754.png)
 
 ---
 ### Ejercicio c:
@@ -111,7 +112,7 @@ Muestra que:
 $$ \sum_{k=0}^{\infty}(k^2x^k) = \frac{x(1+x)}{(1-x)^3} \hspace{5mm} when \hspace{1mm} |x|<1$$
 - [x] completado ✅ 2024-08-27
 #### Solucion:
-![[Ejercicios - Plantilla 2024-08-27 18.30.34.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909101816.png)
 
 ---
 ### Ejercicio d:
@@ -119,7 +120,7 @@ Muestra que:
 $$ \sum_{k=0}^{\infty}\frac{(k-1)}{2^k} = 0$$
 - [x] completado ✅ 2024-08-27
 #### Solucion:
-![[Ejercicios - Plantilla 2024-08-27 18.40.29.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909101835.png)
 
 ---
 ### Ejercicio e:
@@ -127,10 +128,11 @@ Encuentra una forma simple de:
 $$ \prod_{k=2}^n \left(1-\frac{1}{k^2}\right)$$
 - [x] completado ✅ 2024-08-26
 #### Solucion:
-![[Ejercicios - Plantilla 2024-08-26 17.55.35.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909101932.png)
 #### Demostracion:
 Demostraremos que:
-	$$  \prod_{k=2}^n \left(1-\frac{1}{k^2}\right) = \frac{n+1}{2n} $$![[Ejercicios - Plantilla 2024-08-26 18.02.43.excalidraw]]
+	$$  \prod_{k=2}^n \left(1-\frac{1}{k^2}\right) = \frac{n+1}{2n} $$
+	![](ANEXOS/Pasted%20image%2020240909102009.png)
 ---
 ## Bloque 4:
 ### Ejercicio a:

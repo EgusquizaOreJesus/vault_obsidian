@@ -1,6 +1,5 @@
 [
   "calendar",
-  "obsidian-full-calendar",
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
   "templater-obsidian",
@@ -13,11 +12,9 @@
   "obsidian-day-planner",
   "metaedit",
   "obsidian-excalidraw-plugin",
-  "better-pdf-2",
   "homepage",
   "obsidian-plugin-toc",
   "obsidian-git",
   "consistent-attachments-and-links",
-  "xournalpp",
-  "obsidian-tldraw-plugin"
+  "xournalpp"
 ]
