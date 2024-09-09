@@ -1,14 +1,7 @@
 {
   "enabledCssSnippets": [
     "【Main】ITS callouts (infobox, cards)",
-    "Nevereverland",
-    "MCL Wide Views",
-    "MCL Multi Column",
-    "custom-hr-notes",
-    "dashboard",
-    "extended-colorschemes",
-    "gradient_custom_callouts",
-    "MCL Gallery Cards"
+    "【Others】MCL Gallery Cards"
   ],
   "cssTheme": "Primary",
   "theme": "obsidian",

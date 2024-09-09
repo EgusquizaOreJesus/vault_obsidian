@@ -42,7 +42,7 @@ fit: false
 # Ejercicios:
 ## Bloque 1:
 El piso de un número real x, denotado por  $\lfloor x \rfloor$, es el entero máximo que es menor o igual que x. El techo de un número real x, denotado por $\lceil x \rceil$, es el entero mínimo que es mayor o igual que x. 
-Demuestre las siguientes desigualdades, dado que x, y son números reales arbitrarios, n es un número entero arbitrario, y a, b son enteros arbitrarios distintos de cero.
+Demuestre las siguientes desigualdades, dado que x, y son números reales arbitrarios, n es un número entero arbitrario, y a, b son enteros arbitrarios distintos de cero. xzzzxzczzxzgsgasgasg
 ### Ejercicio a:
 $$ \lfloor x \rfloor + \lfloor y \rfloor \le \lfloor x + y \rfloor \le \lfloor x \rfloor + \lfloor y \rfloor + 1$$
 - [x] completado ✅ 2024-08-27
