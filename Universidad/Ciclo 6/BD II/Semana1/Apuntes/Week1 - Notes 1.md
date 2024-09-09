@@ -6,8 +6,6 @@ Conceptos:
 - Field: Esta es la unidad mas pequeña de almacenamiento, tambien conocido como atributo o columna, tiene dos propiedades: nombre y tipo de dato.
 - Record: Es una coleccion de campos, tambien conocido como tupla o fila.
 - File: Es un conjunto relacionado de registros, tambien conocido como tabla. Los archivos pueden ser de texto o binario
-	- Ejm:
-	  En un archivo de texto este numero "10245" ocupa 5 bytes
-	  En un archivo binario lo maneja como numero entero y ocupa 4 bytes
+	- Ejm: sagasgasgasgasgasgasssssssssssssssssssssssssssss
 
 

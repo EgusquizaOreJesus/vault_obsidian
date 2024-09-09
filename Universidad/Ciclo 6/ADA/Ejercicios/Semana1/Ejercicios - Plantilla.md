@@ -148,7 +148,7 @@ Muestra que:
 $$\sum_{k=1}^{\infty}\left(\frac{k}{3^k}\right) \le 1$$
 - [x] completado ✅ 2024-08-27
 #### Solucion:
-![[Ejercicios - Plantilla 2024-08-27 18.46.22.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909102048.png)
 
 ---
 ### Ejercicio c:
@@ -163,14 +163,14 @@ Muestra que existe una constante c, tal que:
 $$ \sum_{k=1}^n \left(\frac{1}{k^2}\right) \le c \hspace{5mm} \forall \hspace{1mm}n \in \mathbb{Z}^+$$
 - [x] completado ✅ 2024-08-27
 #### Solucion:
-- ![[Ejercicios - Plantilla 2024-08-26 23.29.30.excalidraw]]
+ ![](ANEXOS/Pasted%20image%2020240909102117.png)
 ---
 ### Ejercicio e:
 Buscar un upper bound para la suma:
 $$ \sum_{k=0}^{\lfloor lg(n) \rfloor} \left\lceil \frac{n}{2^k} \right\rceil$$
 - [x] completado ✅ 2024-08-29
 #### Solucion:
-![[Ejercicios - Plantilla 2024-08-28 19.29.22.excalidraw]]
+![](ANEXOS/Pasted%20image%2020240909102135.png)
 ## Bloque 5:
 <span style="font-size: 30px">Cuantas hojas tiene un arbol binario completo con "n" nodos. Demostrar por inducción</span>
 - [ ] completado
