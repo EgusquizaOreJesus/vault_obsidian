@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "7f960d4539a69193",
+            "id": "d0d27e210fba01e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Week1-Exercises.md",
+                "file": "Universidad/Ciclo 6/ADA/Semana1/Semana1.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 618.0124969482422
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "233fd4e300ba16e1",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Week1-Exercises.md",
+                "file": "Universidad/Ciclo 6/ADA/Semana1/Semana1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Week1-Exercises.md",
+                "file": "Universidad/Ciclo 6/ADA/Semana1/Semana1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Week1-Exercises.md"
+                "file": "Universidad/Ciclo 6/ADA/Semana1/Semana1.md"
               }
             }
           },
@@ -233,10 +234,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f960d4539a69193",
+  "active": "d0d27e210fba01e1",
   "lastOpenFiles": [
-    "Excalidraw/Week1-Exercises 2024-08-26 11.47.01.excalidraw.md",
+    "Templates/GenerateCard_Custom.md",
+    "Universidad/Ciclo 6/ADA/Semana1/Semana1.md",
+    "Universidad/Ciclo 6/ADA/Semana2/Apuntes/Apuntes1.md",
+    "Universidad/Ciclo 6/ADA/ADA.md",
+    "HomePage.md",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Week1-Exercises.md",
+    "Excalidraw/Week1-Exercises 2024-08-26 11.47.01.excalidraw.md",
     "Excalidraw/Week1-Exercises 2024-08-26 13.54.41.excalidraw.md",
     "Excalidraw/Week1-Exercises 2024-08-26 13.54.41.excalidraw.png",
     "Excalidraw/Week1-Exercises 2024-08-26 13.36.30.excalidraw.md",
@@ -263,14 +269,9 @@
     "Excalidraw/Week1-Notes2 2024-08-26 10.35.14.excalidraw.png",
     "Excalidraw/Week1-Notes1 2024-08-26 12.02.09.excalidraw.md",
     "ANEXOS/Ejercicios- Continua1 2024-08-26 23.54.18.excalidraw.md",
-    "HomePage.md",
     "Calendar/Timeline/Tasks Timeline.md",
     "Daily_Notes/2024-09-09.md",
     "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week1 - Notes 1.md",
-    "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Week1-Notes1.md",
-    "Universidad/Ciclo 6/BD II/Semana1/Apuntes/Semana3/Week3-Notes.md",
-    "Universidad/Ciclo 6/ADA/ADA.md",
-    "Universidad/Ciclo 6/BD II/Semana1.md",
     "Universidad/Ciclo 6/BD II/Material/Organizacion de Archivos 1 (6).pdf",
     "Universidad/Ciclo 6/BD II/Material/Organizacion de Archivos 2 (1).pdf",
     "Universidad/Ciclo 6/BD II/Material",
