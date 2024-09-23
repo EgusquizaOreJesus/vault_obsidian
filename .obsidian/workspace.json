@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "dcaeefb5345cd913",
+            "id": "dc7dc032edd92b0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,21 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dc7dc032edd92b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Continua1/Ejercicios- Continua1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Continua1/Ejercicios- Continua1.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Continua1/Ejercicios- Continua1.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidad/Ciclo 6/ADA/Ejercicios/Continua1/Ejercicios- Continua1.md"
+                "file": "HomePage.md"
               }
             }
           },
@@ -247,11 +235,11 @@
   },
   "active": "dc7dc032edd92b0b",
   "lastOpenFiles": [
+    "Universidad/Ciclo 6/ADA/Ejercicios/Continua1/Ejercicios- Continua1.md",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Week1-Exercises.md",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Ejercicios - Plantilla.md",
     "Universidad/Ciclo 6/ADA/Ejercicios/Semana1/Images/solution.png",
     "Universidad/Ciclo 6/ADA/Apuntes/Semana2/Week2-Notes.md",
-    "Universidad/Ciclo 6/ADA/Ejercicios/Continua1/Ejercicios- Continua1.md",
     "HomePage.md",
     "Universidad/Ciclo 6/ADA/Semana1/Semana1.md",
     "Templates/GenerateCard_Custom.md",
